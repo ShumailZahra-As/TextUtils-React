@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ShumailZahra-As/TextUtils-React/static/css/main.1cdbf67e.css",
-    "main.js": "/ShumailZahra-As/TextUtils-React/static/js/main.7c08af70.js",
-    "static/js/453.02b6ed6f.chunk.js": "/ShumailZahra-As/TextUtils-React/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/ShumailZahra-As/TextUtils-React/index.html",
-    "main.1cdbf67e.css.map": "/ShumailZahra-As/TextUtils-React/static/css/main.1cdbf67e.css.map",
-    "main.7c08af70.js.map": "/ShumailZahra-As/TextUtils-React/static/js/main.7c08af70.js.map",
-    "453.02b6ed6f.chunk.js.map": "/ShumailZahra-As/TextUtils-React/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/shumailzahra-as/TextUtils-React/static/css/main.1cdbf67e.css",
+    "main.js": "/shumailzahra-as/TextUtils-React/static/js/main.5306554d.js",
+    "static/js/453.02b6ed6f.chunk.js": "/shumailzahra-as/TextUtils-React/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/shumailzahra-as/TextUtils-React/index.html",
+    "main.1cdbf67e.css.map": "/shumailzahra-as/TextUtils-React/static/css/main.1cdbf67e.css.map",
+    "main.5306554d.js.map": "/shumailzahra-as/TextUtils-React/static/js/main.5306554d.js.map",
+    "453.02b6ed6f.chunk.js.map": "/shumailzahra-as/TextUtils-React/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1cdbf67e.css",
-    "static/js/main.7c08af70.js"
+    "static/js/main.5306554d.js"
   ]
 }
