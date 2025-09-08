@@ -6,9 +6,10 @@ import React, { useState} from 'react';
 import Alert from './Components/Alert';
 
 import {
- HashRouter  as Router,
+ HashRouter,
   Routes, //instead of switch
-  Route, //instead of link
+  Route,
+ //instead of link
 } from "react-router-dom";
 
 
@@ -50,7 +51,7 @@ setTimeout(() => {
   }
   return (
     <>
-    <Router>
+
     {/* <Navbar title="TextUtils" aboutText="About"/> */}
   {/* <Navbar/>  */}
 
@@ -63,16 +64,18 @@ setTimeout(() => {
 {/* use exact path so that react matching otherwise react matching partially */}
     {/* /users --> Component 1
     /users/home -->--> Component 2 */}
-       <Routes>
+        <HashRouter>
+       <Routes>   
           <Route exact path="/about" element={<About mode={mode}/>}/>
       
           <Route exact path="/" element={<TextForm showAlert={showAlert} heading="Enter the text to analyze below"  mode={mode}/>}/>
 
         </Routes>
+          
+</HashRouter>
           </div>
-     </Router>
-
   
+
 </>
   );
 }
