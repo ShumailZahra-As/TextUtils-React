@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ShumailZahra-As/TextUtils-React/static/css/main.1cdbf67e.css",
-    "main.js": "/ShumailZahra-As/TextUtils-React/static/js/main.7c08af70.js",
+    "main.js": "/ShumailZahra-As/TextUtils-React/static/js/main.c4b33f47.js",
     "static/js/453.02b6ed6f.chunk.js": "/ShumailZahra-As/TextUtils-React/static/js/453.02b6ed6f.chunk.js",
     "index.html": "/ShumailZahra-As/TextUtils-React/index.html",
     "main.1cdbf67e.css.map": "/ShumailZahra-As/TextUtils-React/static/css/main.1cdbf67e.css.map",
-    "main.7c08af70.js.map": "/ShumailZahra-As/TextUtils-React/static/js/main.7c08af70.js.map",
+    "main.c4b33f47.js.map": "/ShumailZahra-As/TextUtils-React/static/js/main.c4b33f47.js.map",
     "453.02b6ed6f.chunk.js.map": "/ShumailZahra-As/TextUtils-React/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1cdbf67e.css",
-    "static/js/main.7c08af70.js"
+    "static/js/main.c4b33f47.js"
   ]
 }
